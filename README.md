@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 A classic favorite in which two players try to get either three X's or O's in a row to win. 
 
-(I don't really know what to type in this file because the game instructions are clearly unnecessary xD) 
+(I don't really know what to type in this file because the game instructions are clearly unnecessary lol) 
 
 (The game's currently multiplayer only)
 
